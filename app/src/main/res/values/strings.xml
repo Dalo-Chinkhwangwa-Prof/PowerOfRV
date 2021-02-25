@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PowerOfRV</string>
+    <string name="written_by">Written by %s</string>
+    <string name="pages">%d Pages</string>
+    <string name="isbn">ISBN-%s</string>
+</resources>
